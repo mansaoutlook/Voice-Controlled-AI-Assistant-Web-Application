@@ -1,6 +1,6 @@
-AI Voice Assistant 
+# AI Voice Assistant 
 
-Overview:
+# Overview:
 
 This is a simple web-based AI assistant that utilizes the Web Speech API for speech recognition and text-to-speech functionality. Users can interact via voice commands such as:
 
@@ -16,7 +16,7 @@ This is a simple web-based AI assistant that utilizes the Web Speech API for spe
 
 . Any other phrase will be searched on Google.
 
-Features:
+# Features:
 
 . Voice command recognition
 
@@ -28,7 +28,7 @@ Features:
 
 . Animated button while listening
 
-Technologies Used:
+# Technologies Used:
 
 . HTML for structure
 
@@ -36,7 +36,7 @@ Technologies Used:
 
 . JavaScript for speech recognition and command handling
 
-Future Improvements:
+# Future Improvements:
 
 . Add support for more commands (e.g., weather updates, reminders, etc.)
 
