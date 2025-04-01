@@ -2,7 +2,7 @@ AI Voice Assistant
 
 Overview:
 
-This is a simple AI voice assistant built using HTML, CSS, and JavaScript. It utilizes the Web Speech API for speech recognition and speech synthesis. Users can click the button and issue voice commands such as:
+This is a simple web-based AI assistant that utilizes the Web Speech API for speech recognition and text-to-speech functionality. Users can interact via voice commands such as:
 
 . "Open YouTube"
 
